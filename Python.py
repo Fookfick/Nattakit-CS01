@@ -1,1 +1,2 @@
-print("ฟลุ๊คฟลิ๊ก")
+A=input("Nattakit")
+print(A)
