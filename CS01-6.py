@@ -1,5 +1,3 @@
-if(A>2)
-A=int(input())
-A=input()
-A=float(input())
-print("Yes")
+A = int(input())
+if A < 10:
+ print("Yes")
