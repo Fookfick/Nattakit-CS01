@@ -1,9 +1,9 @@
 A=int(input("enter ur grade"))
 if A<=10:
-    print("failed")
+    print("ไม่ผ่าน")
 elif A<=20:
-    print("Improve")
+    print("ปรับปรุง")
 elif A<=30:
-    print("Passed")
+    print("ผ่าน")
 else:
-    print("error")
+    print("error") 
