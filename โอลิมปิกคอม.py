@@ -1,3 +1,4 @@
+import cv2
 Num = int(input('Enter your loops:'))
 Numtotal = []
 for i in range(Num) :
